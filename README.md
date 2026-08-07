@@ -2,6 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Roshan%20%20Gawade"/>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=30&duration=2000&pause=1000&color=C6F7C9&background=1B12126A&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Gawade;Full+Stack+Developer;Building+Production-Ready+Applications;Exploring+Agentic+AI+%26+RAG" alt="Typing SVG" /></a>
+<br/>
 # 💫 About Me:
 🚀 Summary<br><br>Computer Science Engineering graduate with hands-on experience in full-stack development, scalable system design,<br>and cloud deployment, along with freelance development experience. Experienced in building production-ready<br>applications while contributing across frontend, backend, APIs, automation, and deployment in real-world<br>environments. Solved 200+ DSA problems on LeetCode and GeeksforGeeks
 
