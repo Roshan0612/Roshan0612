@@ -210,17 +210,37 @@ Shree L.R. Tiwari College of Engineering (Mumbai University)
 
 CGPA: **8.15 / 10**
 
-<h2>📜 Certifications</h2>
+## 📜 Certifications
 
-### AWS Academy Graduate — AWS Academy Cloud Foundations
+<table>
+<tr>
+<td width="40%" align="center">
 
-📅 **April 2025**
+<a href="https://drive.google.com/file/d/1PwmRevIaKQLneGDIzsMsy1IptiyXOvyo/view" target="_blank">
+<img src="https://res.cloudinary.com/dswa5docr/image/upload/v1786089383/0cf6c6a2-c893-46a5-8758-480cc090bea8.png"
+alt="AWS Academy Cloud Foundations"
+width="100%">
+</a>
 
-<p>
-  <a href="https://drive.google.com/file/d/1PwmRevIaKQLneGDIzsMsy1IptiyXOvyo/view" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Certificate-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificate"/>
-  </a>
+</td>
+
+<td width="60%" valign="top">
+
+### ☁️ AWS Academy Graduate – AWS Academy Cloud Foundations
+
+Earned the **AWS Academy Cloud Foundations** certification, building a strong understanding of cloud computing concepts and hands-on exposure to core AWS services including **Amazon EC2, Amazon S3, IAM, VPC, RDS, Cloud Computing Fundamentals, AWS Global Infrastructure, Security, Monitoring, Pricing & Billing, and High Availability**.
+
+<p align="left">
+
+<a href="https://drive.google.com/file/d/1PwmRevIaKQLneGDIzsMsy1IptiyXOvyo/view">
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
 </p>
+
+</td>
+</tr>
+</table>
 
 <h2>📊 GitHub Analytics</h2>
 
