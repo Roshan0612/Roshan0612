@@ -43,7 +43,6 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 💡 Passionate about building scalable software and exploring AI-powered applications.
 
 
-
 <h2>🛠️ Tech Stack</h2>
 
 ### 💻 Programming Languages
@@ -55,7 +54,7 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Frameworks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,46 +68,37 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Databases
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
----
-
-### 🗄️ Databases & ORM
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+**Also Familiar With**
+
+`REST APIs` • `NextAuth` • `Framer Motion`
+
 ---
 
-### ☁️ Cloud & Deployment
+### ☁️ DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-### 🛠️ Tools
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Also Familiar With**
 
-`REST APIs` • `NextAuth` • `Framer Motion` • `AWS S3` • `AWS IAM` • `Vercel` • `VS Code` • `Cursor` • `IntelliJ IDEA`
+`AWS S3` • `AWS IAM` • `Vercel` • `VS Code` • `Cursor` • `IntelliJ IDEA`
 
 ---
 
-### 🤖 AI / GenAI
-
-`LangChain` • `LangGraph` • `LangSmith` • `Google Gemini API` • `RAG` • `Vector Databases`
 
 <h2>💼 Experience</h2>
 
