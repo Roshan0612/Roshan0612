@@ -1,3 +1,6 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Roshan%20%20Gawade"/>
+</p>
 # 💫 About Me:
 🚀 Summary<br><br>Computer Science Engineering graduate with hands-on experience in full-stack development, scalable system design,<br>and cloud deployment, along with freelance development experience. Experienced in building production-ready<br>applications while contributing across frontend, backend, APIs, automation, and deployment in real-world<br>environments. Solved 200+ DSA problems on LeetCode and GeeksforGeeks
 
