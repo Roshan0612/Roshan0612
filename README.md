@@ -135,13 +135,20 @@ CGPA: **8.15 / 10**
     <img src="https://img.shields.io/badge/📄_View_Certificate-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificate"/>
   </a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Roshan0612&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Roshan0612&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshan0612&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Roshan0612&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roshan0612&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Roshan0612&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0612&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan0612&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Roshan0612&icon=0&color=0)](https://visitcount.itsvg.in)
