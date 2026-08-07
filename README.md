@@ -122,51 +122,84 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 - Collaborated directly with clients from requirement gathering to deployment.
 - Designed responsive interfaces focused on performance and accessibility.
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-### Autozynq — Workflow Automation Platform
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Autozynq</h3>
+
+<p align="center">
+<a href="https://autozynq-9bs2.vercel.app/" target="_blank">
+<img src="https://res.cloudinary.com/dswa5docr/image/upload/v1786089071/65f4caeb-6ced-4913-9745-cc2e88c219b9.png" alt="Autozynq" width="100%" />
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://autozynq-9bs2.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Roshan0612/Autozynq">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 **Tech Stack**
 
-`Next.js 15` • `TypeScript` • `React Flow` • `Prisma ORM` • `PostgreSQL` • `NextAuth` • `Tailwind CSS` • `Google APIs` • `Grok AI`
+`Next.js 15` • `TypeScript` • `React Flow` • `Prisma ORM` •
+`PostgreSQL` • `NextAuth` • `Tailwind CSS` • `Google APIs`
 
 **Highlights**
 
-- Built a production-ready automation platform with a visual workflow builder using React Flow and Next.js.
-- Developed a workflow execution engine supporting Webhooks, Google Forms, Google Sheets, Gmail, Google Drive, and Slack integrations with retries, error handling, and idempotent execution.
-- Architected secure workflow management using NextAuth, Prisma, and PostgreSQL, enabling isolated user workflows, activation controls, and webhook triggers.
+- Visual workflow automation platform inspired by Zapier & n8n.
+- Drag-and-drop workflow builder using React Flow.
+- Google Workspace, Slack & Webhook integrations.
+- Retry handling, idempotent execution & secure workflow management.
 
-<p>
-  <a href="https://autozynq-9bs2.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Roshan0612/Autozynq">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💪 FitTrack</h3>
+
+<p align="center">
+<a href="https://fittrack-frontend-90dm.onrender.com/" target="_blank">
+<img src="https://res.cloudinary.com/dswa5docr/image/upload/v1786089108/830baf56-ef81-4d64-8bf3-30167c24355f.png" alt="FitTrack" width="100%" />
+</a>
 </p>
 
----
+<p align="center">
 
-### FitTrack — Gym Management Platform
+<a href="https://fittrack-frontend-90dm.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Roshan0612/FitTrack">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 **Tech Stack**
 
-`MERN` • `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Framer Motion` • `Tailwind CSS`
+`MERN` • `React.js` • `Node.js` • `Express.js` •
+`MongoDB` • `JWT` • `Framer Motion` • `Tailwind CSS`
 
 **Highlights**
 
-- Developed a full-stack gym management platform with dedicated admin and user portals.
-- Built modules for exercise, diet plans, coupon management, subscriptions, and calorie tracking.
-- Implemented JWT-based role authentication and scalable MongoDB schemas, delivering secure access control and a responsive user experience.
+- Full-stack gym management platform.
+- Admin & User dashboards.
+- Subscription, coupon & calorie tracking modules.
+- JWT authentication with scalable MongoDB architecture.
 
-<p>
-  <a href="https://fittrack-frontend-90dm.onrender.com/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Roshan0612/FitTrack">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
+
 <h2>🎓 Education</h2>
 
 **Bachelor of Engineering in Computer Science**
