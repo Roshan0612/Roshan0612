@@ -126,8 +126,15 @@ CGPA: **8.15 / 10**
 
 <h2>📜 Certifications</h2>
 
-- AWS Academy Graduate — AWS Academy Cloud Foundations *(Apr 2025)*
+### AWS Academy Graduate — AWS Academy Cloud Foundations
 
+📅 **April 2025**
+
+<p>
+  <a href="https://drive.google.com/file/d/1PwmRevIaKQLneGDIzsMsy1IptiyXOvyo/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Certificate-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificate"/>
+  </a>
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Roshan0612&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Roshan0612&theme=dark&hide_border=true)<br/>
