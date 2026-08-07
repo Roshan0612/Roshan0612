@@ -149,6 +149,8 @@ CGPA: **8.15 / 10**
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Roshan0612&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
