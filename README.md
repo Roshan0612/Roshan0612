@@ -139,13 +139,11 @@ CGPA: **8.15 / 10**
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roshan0612&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Roshan0612&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Roshan0612&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0612&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan0612&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan0612&theme=react-dark&hide_border=true" />
 </p>
 
 
