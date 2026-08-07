@@ -75,17 +75,45 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 
 **Tech Stack**
 
-Next.js 15 • TypeScript • React Flow • Prisma ORM • PostgreSQL • NextAuth • Tailwind CSS • Google APIs
+`Next.js 15` • `TypeScript` • `React Flow` • `Prisma ORM` • `PostgreSQL` • `NextAuth` • `Tailwind CSS` • `Google APIs` • `Grok AI`
 
 **Highlights**
 
-- Built a production-ready automation platform with a visual workflow builder.
-- Developed a workflow execution engine supporting Webhooks, Gmail, Google Sheets, Google Drive, Forms, and Slack.
-- Implemented retries, idempotent execution, and secure workflow management.
+- Built a production-ready automation platform with a visual workflow builder using React Flow and Next.js.
+- Developed a workflow execution engine supporting Webhooks, Google Forms, Google Sheets, Gmail, Google Drive, and Slack integrations with retries, error handling, and idempotent execution.
+- Architected secure workflow management using NextAuth, Prisma, and PostgreSQL, enabling isolated user workflows, activation controls, and webhook triggers.
 
-**Links**
+<p>
+  <a href="https://autozynq-9bs2.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Roshan0612/Autozynq">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-🌐 Live Demo • 📂 Repository
+---
+
+### FitTrack — Gym Management Platform
+
+**Tech Stack**
+
+`MERN` • `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Framer Motion` • `Tailwind CSS`
+
+**Highlights**
+
+- Developed a full-stack gym management platform with dedicated admin and user portals.
+- Built modules for exercise, diet plans, coupon management, subscriptions, and calorie tracking.
+- Implemented JWT-based role authentication and scalable MongoDB schemas, delivering secure access control and a responsive user experience.
+
+<p>
+  <a href="https://fittrack-frontend-90dm.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Roshan0612/FitTrack">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 <h2>🎓 Education</h2>
 
 **Bachelor of Engineering in Computer Science**
