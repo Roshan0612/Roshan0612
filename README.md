@@ -202,6 +202,13 @@ CGPA: **8.15 / 10**
 
 
 ---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roshan0612/Roshan0612/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 </p>
