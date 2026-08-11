@@ -132,7 +132,7 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 
 <p align="center">
 <a href="https://autozynq-9bs2.vercel.app/" target="_blank">
-<img src="https://res.cloudinary.com/dswa5docr/image/upload/v1786089071/65f4caeb-6ced-4913-9745-cc2e88c219b9.png" alt="Autozynq" width="100%" />
+<img src="https://res.cloudinary.com/dswa5docr/image/upload/v1786435986/e566bba0-e7c0-49f3-b11d-c252cc55845f.png" alt="Autozynq" width="100%" />
 </a>
 </p>
 
