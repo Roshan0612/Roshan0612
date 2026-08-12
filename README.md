@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="tel:+918551879434">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Call"/>
+  <a href="tel:+918551879434" target="_blank">
+  <img src="https://img.shields.io/badge/Call%20%2B91%208551879434-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="+91 8551879434"/>
   </a>
 </p>
 <h2 align="left">👨‍💻 <strong>About Me</strong></h2>
