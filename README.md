@@ -23,7 +23,11 @@
   </a>
   &nbsp;
   <a href="tel:+918551879434" target="_blank">
-  <img src="https://img.shields.io/badge/Call%20%2B91%208551879434-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="+91 8551879434"/>
+    <img src="https://img.shields.io/badge/📞_CALL-128C7E?style=for-the-badge&logoColor=white" alt="Call"/>
+  </a><a href="tel:+918551879434" target="_blank"><img src="https://img.shields.io/badge/+91_8551879434-25D366?style=for-the-badge&logoColor=white" alt="+91 8551879434"/></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/RoshanGawade10/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 <h2 align="left">👨‍💻 <strong>About Me</strong></h2>
