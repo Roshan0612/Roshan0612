@@ -4,10 +4,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=C6F7C9&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Gawade;Full+Stack+Developer;Building+Production-Ready+Applications;Exploring+Agentic+AI+%26+RAG"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=C6F7C9&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Gawade;Full+Stack+Developer;AI+Full+Stack+Developer;Building+Production-Ready+Applications;Building+AI+Systems+with+RAG+%26+LLMs;Exploring+LangChain+%26+LangGraph"
+      alt="Typing SVG" 
     />
   </a>
+  
+
+
+  
 </p>
 <p align="center">
   <a href="https://rportfolio-1kdf.onrender.com/" target="_blank">
