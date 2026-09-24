@@ -63,6 +63,7 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -84,7 +85,10 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 
 **Also Familiar With**
 
-`REST APIs` • `NextAuth` • `Framer Motion`
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
 ---
 
@@ -109,7 +113,7 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 ### Full Stack Developer
 **Vivirelle Lifestyle & Fragrances**
 
-📅 Jan 2026 – Jul 2026
+📅 Jan 2026 – april 2026
 
 - Developed a full-stack fragrance retail application using **Next.js, TypeScript, Node.js, Express.js, and PostgreSQL**.
 - Designed RESTful APIs for product catalog, inventory, shopping cart, orders, and secure multi-role access control.
