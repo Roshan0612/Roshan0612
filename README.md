@@ -38,7 +38,7 @@
 
 <p>
   <strong>
-    <mark>Full-Stack Developer</mark>
+    <mark>Ai Full-Stack Developer</mark>
   </strong>
   &nbsp;·&nbsp;
   <strong>BE Computer Science & Engineering</strong>
