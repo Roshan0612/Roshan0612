@@ -34,24 +34,49 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-<h2 align="left">👨‍💻 <strong>About Me</strong></h2>
+<h2>👨‍💻 About Me</h2>
 
-Computer Science Engineering graduate with hands-on experience in full-stack development, scalable system design, and cloud deployment, along with freelance development experience.
+<p>
+  <strong>
+    <mark>Full-Stack Developer</mark>
+  </strong>
+  &nbsp;·&nbsp;
+  <strong>BE Computer Science & Engineering</strong>
+</p>
 
-🚀 Experienced in building production-ready applications while contributing across:
+<p>
+  I enjoy taking an idea from <strong>concept to a working product</strong> —
+  designing the experience, solving backend problems, working with data,
+  and making systems <strong>reliable enough for production</strong>.
+</p>
 
-- Frontend Development
-- Backend Development
-- REST APIs
-- Workflow Automation
-- Cloud Deployment
+<p>
+  My strongest foundation is in
+  <strong><mark>Full-Stack Development</mark></strong>,
+  while my current direction is
+  <strong><mark>AI Engineering</mark></strong>.
+</p>
 
-🧩 Solved **200+ DSA Problems** on LeetCode and GeeksforGeeks.
+<p>
+  I'm exploring how
+  <strong><mark>LLMs</mark></strong>,
+  <strong><mark>RAG</mark></strong>, and
+  <strong><mark>Agentic AI</mark></strong>
+  can be combined with traditional software to build applications that can
+  <strong>understand, retrieve information, reason, and automate real tasks</strong>.
+</p>
 
-💡 Passionate about building scalable software and exploring AI-powered applications.
+<p>
+  I care about more than just making things work — I enjoy understanding
+  <strong>why they work</strong>, improving the
+  <strong>architecture</strong>, and continuously learning better ways to build.
+</p>
 
+<p>
+  🧠 <strong><mark>200+ DSA Problems</mark></strong>
+  solved on LeetCode & GeeksforGeeks
+</p>
 
-<h2>🛠️ Tech Stack</h2>
 
 ### 💻 Programming Languages
 
